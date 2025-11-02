@@ -1,3 +1,3 @@
-Hello MCP File Search
+Hello MCP File Search and it is MCP
 This is a test line
 MCP is cool
