@@ -5,6 +5,7 @@
   "scripts": {
     "start": "ts-node src/server.ts",
     "build": "tsc",
+    "mcp": "ts-node src/mcp-stdio.ts",
     "test": "mocha -r ts-node/register tests/**/*.ts",
     "lint": "eslint . --ext .ts,.js"
   },
