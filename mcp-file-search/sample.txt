@@ -1,0 +1,3 @@
+Hello MCP File Search
+This is a test line
+MCP is cool
